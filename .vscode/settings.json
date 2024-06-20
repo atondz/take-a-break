@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9ea709e8-b7e0-4c67-be03-783eb833ca89/resourceGroups/Toan/providers/Microsoft.Web/sites/BreakTime1",
+    "appService.deploySubpath": "Hypnos\\build"
+}
